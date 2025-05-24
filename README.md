@@ -64,3 +64,18 @@ The calculator uses `cv2.putText()` to display instructions, the current count, 
 4. **Result**: Press `'s'` to see the result in terminal.
 5. **Exit**: Press `'e'` or `ESC`.
 
+---
+
+## Running the Program
+
+This program can be run in **any Python IDE or console** that supports Python 3 and has the required libraries installed.
+
+> **Important**: A working **webcam is required** to use the hand gesture functionality.
+
+To run the program:
+
+1. Ensure your webcam is connected and functional.
+2. Install the required libraries:
+
+```bash
+pip install opencv-python mediapipe
